@@ -1,0 +1,5 @@
+set x 10
+set sean smith
+set qwe asd
+set 1 4
+print x

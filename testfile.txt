@@ -1,0 +1,24 @@
+help
+set x 10
+set y 20
+set z mary
+set bobbie Montreal Canadians
+set z bob
+set y 30
+print x
+print y
+print z
+print bobbie
+help
+help  
+            help
+help extraVariable
+help extraVariable anotherOne
+set chrome
+print chrome
+set chrome ozone
+print chrome
+print chrome ozone
+run unkownScript.txt
+         quit
+
